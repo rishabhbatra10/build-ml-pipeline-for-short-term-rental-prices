@@ -1,4 +1,5 @@
-name: components
+
+name: basic_cleaning
 channels:
   - conda-forge
   - defaults
